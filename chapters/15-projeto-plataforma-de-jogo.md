@@ -9,7 +9,7 @@ Meu fascínio inicial com computadores foi como o de muitas crianças, originado
 Eu não desejo uma carreira na programação de jogos a ninguém. Assim como a indústria da música, a discrepância entre os muitos jovens ansiosos que querem trabalhar nela e a demanda real para essas pessoas cria um ambiente não muito saudável. Mas escrever jogos para se divertir é muito legal.
 
 Este capítulo vai falar sobre a implementação de um jogo de plataforma simples. Jogos de Plataforma (ou jogos de "saltar e correr") são os jogos que esperam o jogador para mover uma figura através de um mundo que muitas vezes é bidimensional e visto de lado, onde pode ter a possibilidade de muitos saltos para se mover sobre as coisas.
-
+oioi
 ## O jogo
 
 Nosso jogo será mais ou menos baseado em **Dark blue** por Thomas Palef. Eu escolhi este jogo porque é divertido, minimalista e pode ser construído sem muito código. Observe:
